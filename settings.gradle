@@ -1,0 +1,5 @@
+rootProject.name = "Practice5"
+include ':ListView'
+include ':accelerometer'
+include ':camera'
+include ':audiorecord'
